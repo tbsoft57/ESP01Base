@@ -4,7 +4,7 @@
 //   io3-Rx   VCC                                                                                                  //
 //   io0      RST   (RST et CH_EN doivent être HIGH, io0 doit être HIGH au Boot sinon ESP passe en Mode Flachage)  //                                                                           //
 //   io2      CH_EN                                                                                                //
-//   GND      io1-Tx   Test                                                                                            //
+//   GND      io1-Tx                                                                                               //
 //                                                                                                                 //
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
